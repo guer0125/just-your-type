@@ -4,17 +4,17 @@ h2 {
   font-family: Oxanium, cursive;
   color: #ffbf00;
   opacity: .5;
-  text-shadow: 2px 2px #ff0000;
+  text-shadow: 2px 2px #f00;
 }
 
 p {
   font-family: Slabo, serif;
-  color: #f00;
+  color: #fff;
 }
 
 cite {
   font-family: "Dancing Script", cursive;
-  color: #f00;
+  color: #fff;
 }
 
 .whole {
