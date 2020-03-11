@@ -2,24 +2,24 @@ h2 {
   transform-origin: 0 0;
   transform: rotate(90deg);
   font-family: Oxanium, cursive;
-  color: #f5989d;
+  color: #e5d298;
   opacity: .3;
 }
 
 p {
   font-family: Slabo, serif;
-  color: #000;
+  color: #fff;
 }
 
 cite {
   font-family: "Dancing Script", cursive;
-  color: #000;
+  color: #fff;
 }
 
 .whole {
-  background-color: #7bccc8;
+  background-color: #755b0e;
 }
 
 h1 {
-  color: #c4df9b;
+  color: #ffbf00;
 }
