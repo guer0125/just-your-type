@@ -2,8 +2,9 @@ h2 {
   transform-origin: 0 0;
   transform: rotate(90deg);
   font-family: Oxanium, cursive;
-  color: #e5d298;
-  opacity: .3;
+  color: #ffbf00;
+  opacity: .5;
+  text-shadow: 2px 2px #ff0000;
 }
 
 p {
@@ -17,9 +18,10 @@ cite {
 }
 
 .whole {
-  background-color: #c8bbab;
+  background-color: #e78200;
 }
 
 h1 {
   color: #ffbf00;
+  text-shadow: 4px 4px #811200;
 }
