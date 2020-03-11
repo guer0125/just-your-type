@@ -1,4 +1,25 @@
-.rotate h2 {
-  writing-mode: vertical-rl;
-  text-orientation: upright;
+h2 {
+  transform-origin: 0 0;
+  transform: rotate(90deg);
+  font-family: Oxanium, cursive;
+  color: #e5d298;
+  opacity: .3;
+}
+
+p {
+  font-family: Slabo, serif;
+  color: #fff;
+}
+
+cite {
+  font-family: "Dancing Script", cursive;
+  color: #fff;
+}
+
+.whole {
+  background-color: #755b0e;
+}
+
+h1 {
+  color: #ffbf00;
 }
